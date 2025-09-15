@@ -42,7 +42,6 @@
 "AMCR": ["l5ED4Nr", "Y0aBarz", 1, 1, 1, 1],
 "AMIA": ["rZT5FsK", "2oCMkn9", 1, 1, 1, 1],
 "AMIC": ["eIIxv20", "48wIKKv", 1, 1, 1, 1],
-"MMRV": ["RYHVXva", "hw4Mfce", 0, 0, 1, 1],
 "AMSB": ["adnquH4", "RVKgeji", 1, 1, 1, 1],
 "ANIP": ["K0iw8Go", "FTYMeeG", 1, 1, 1, 1],
 "ANWO": ["CCBkPiG", "YoTqsJC", 1, 1, 1, 1],
@@ -320,11 +319,14 @@
 "zMMMP": ["1fNwY5g", "6bb5DcQ", 1, 1, 1, 1],
 "zNCMP": ["QIccriL", "xVA6HJa", 1, 1, 1, 1],
 "MAS": ["DtaYVJq", "peCYIFi", 1, 1, 1, 1],
-"MMFB": ["2KfBv6z", "p1xb4YJ", 1, 1, 1, 1],
-"NNFB": ["2KfBv6z", "p1xb4YJ", 1, 1, 1, 1],
-"AAFB": ["2KfBv6z", "p1xb4YJ", 1, 1, 1, 1],
+"MMRV": ["RYHVXva", "hw4Mfce", 0, 0, 1, 1],
+"MMFB": ["2KfBv6z", "p1xb4YJ", 0, 0, 1, 1],
+"NNFB": ["2KfBv6z", "p1xb4YJ", 0, 0, 1, 1],
+"AAFB": ["2KfBv6z", "p1xb4YJ", 0, 0, 1, 1],
 "NHOH": ["lseyxUX", "HzacfWe", 1, 1, 1, 1],
-"MPTB": ["TGdVkaM", "3SHZdRC", 1, 1, 1, 1]
+"MPTB": ["TGdVkaM", "3SHZdRC", 1, 1, 1, 1],
+"NSPI": ["PXAh7Dj", "mVSHpWu", 0, 0, 1, 1]
 }
+
 
 

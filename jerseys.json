@@ -184,7 +184,7 @@
 "MGBR": ["yihxsfk", "KVc0fUh", 1, 1, 1, 1],
 "MGFD": ["1OGnnzE", "Iw1jSLW", 1, 1, 1, 1],
 "MGGB": ["TAMY9Ur", "vFE57qK", 1, 1, 1, 1],
-"MHGB": ["P1oSHLm", "glnzpPF", 1, 1, 1, 1],
+"MHGB": ["P1oSHLm", "glnzpPF", 0, 0, 1, 1],
 "MHGW": ["qz06wmf", "WKQ7mgy", 1, 1, 1, 1],
 "MHHR": ["oE7gPse", "5fmx7BQ", 0.5, 0.5, 1, 1],
 "MHOH": ["lseyxUX", "HzacfWe", 1, 1, 1, 1],
@@ -330,6 +330,7 @@
 "ABSQ": ["eGfwXmF", "ELwEuf3", 0, 0, 1, 1],
 "MPTB": ["TGdVkaM", "3SHZdRC", 0, 0, 1, 1]
 }
+
 
 
 

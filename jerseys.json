@@ -225,7 +225,7 @@
 "MTOC": ["vORAmg4", "E586GwP", 1, 1, 1, 1],
 "MWOM": ["CZUBMRt", "CZUBMRt", 1, 1, 1, 1],
 "MWOP": ["6LgirBV", "Z9XEwZc", 1, 1, 1, 1],
-"NWOP": ["6LgirBV", "Z9XEwZc", 1, 1, 1, 1], 
+"NWOP": ["6LgirBV", "Z9XEwZc", 0, 0, 1, 1], 
 "AWOP": ["6LgirBV", "Z9XEwZc", 1, 1, 1, 1],
 "MWTP": ["8eXpnN3", "2Cg8f1e", 1, 1, 1, 1],
 "MYGG": ["M4xRKGp", "VhdHS4u", 1, 1, 1, 1],
@@ -330,6 +330,7 @@
 "ABSQ": ["eGfwXmF", "ELwEuf3", 0, 0, 1, 1],
 "MPTB": ["TGdVkaM", "3SHZdRC", 0, 0, 1, 1]
 }
+
 
 
 

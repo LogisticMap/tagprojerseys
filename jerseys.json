@@ -192,7 +192,7 @@
 "MJIB": ["oH1q80H", "oH1q80H", 1, 1, 1, 1],
 "MLAA": ["xD19JSr", "R2bdMvv", 1, 1, 1, 1],
 "MLAB": ["47UhV7j", "jrYoXtt", 1, 1, 1, 1],
-"MLBT": ["CCBkPiG", "YoTqsJC", 1, 1, 1, 1],
+"MLBT": ["CCBkPiG", "YoTqsJC", 0, 0, 1, 1],
 "MLST": ["ZTwIQSN", "OLOw48j", 1, 1, 1, 1],
 "MMBC": ["o6DyG93", "MKrCWhS", 1, 1, 1, 1],
 "AMRV": ["7bv2Rlx", "acC13pW", 0, 0, 1, 1],
@@ -330,6 +330,7 @@
 "ABSQ": ["eGfwXmF", "ELwEuf3", 0, 0, 1, 1],
 "MPTB": ["TGdVkaM", "3SHZdRC", 0, 0, 1, 1]
 }
+
 
 
 
